@@ -1,3 +1,6 @@
+This repo is the front end part of the project StudentSystem, the Backend part is located at repo StudentSys-FullStack
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
